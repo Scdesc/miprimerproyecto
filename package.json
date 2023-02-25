@@ -1,0 +1,11 @@
+{
+  "name": "miprimerproyecto",
+  "version": "1.0.0",
+  "description": "miprimerproyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Contreras <danilcontrerassandoval@gmail.com>",
+  "license": "ISC"
+}
